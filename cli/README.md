@@ -2,8 +2,9 @@
 
 [![npm version](https://img.shields.io/npm/v/ktrouter.svg)](https://www.npmjs.com/package/ktrouter)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/dongbao492/ktrouter)
 
-**KTRouter CLI** is the global command-line interface and background daemon wrapper for **KTRouter** (the local AI proxy router and developer dashboard). 
+**KTRouter CLI** is the global command-line interface and background daemon wrapper for **[KTRouter](https://github.com/dongbao492/ktrouter)** (the local AI proxy router and developer dashboard). 
 
 It manages the background Next.js server, handles automatic self-healing native dependencies, runs an interactive terminal control panel (TUI), and integrates seamlessly into the system tray.
 
